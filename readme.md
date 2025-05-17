@@ -42,7 +42,7 @@ Link to the 3D model [here](https://cad.onshape.com/documents/30e0986ab7bef6b26c
 - Connect TOSLINK to the TV and Speakers as per schematic.
 - A single orange/green led on the strip indicates the set volume. Each LED represents half an effective bit (ENOB), on a range from 17 ENOBs to 7 ENOBs.
 - If a signal is detected on the input, the on board LED will start blinking and the volume indicator on the LED strip will turn from orange to green.
-- The (volume adjusted) input signal is displayed on the led strip as a VU Meter, again in the units of ENOB.
+- The (volume-adjusted) input signal is displayed on the led strip as a VU Meter, again in the units of ENOB.
 
 
 ### Notes
