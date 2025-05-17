@@ -28,10 +28,10 @@ I used the following software versions to compile this project:
 | Component              | Version |
 |------------------------|---------|
 | Arduino IDE            |   2.3.4 |
-| Raspberry Pi Pico Core |   4.4.4 |
-| audio-tools            |   1.0.1 (early 2025) |
-| IRremote               |   4.4.1 |
-| Adafruit_NeoPixel      |  1.12.5 |
+| [Raspberry Pi Pico Core](https://github.com/earlephilhower/arduino-pico) |   4.4.4 |
+| [arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools)            |   1.0.1 (early 2025) |
+| [IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote)               |   4.4.1 |
+| [Adafruit_NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel)      |  1.12.5 |
 
 Download the `code` folder and the contents should directly compile as an Arduino sketch, provided that the above dependencies are installed.
 
