@@ -2,6 +2,8 @@
 ### What?
 This is an Arduino sketch for a Raspberry Pi Pico that reads TOSLINK or SPDIF audio data, modifies the volume, and writes the audio data to a second TOSLINK/SPDIF port. The volume can be adjusted by an IR remote. Optionally the current volume and a VU meter can be displayed on a WS2812 LED strip.
 
+![Image](https://github.com/Sola85/spdif-volume-control/blob/main/schematic/image.png "Image")
+
 ### Why?
 I'm in a peculiar situation: I want to connect my LG "Smart" TV to my Logitech PC speakers. However, the smart TV has only 3 types of audio outputs:
 
