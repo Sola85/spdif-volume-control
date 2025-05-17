@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Toslink-transceivers")(type "KiCad")(uri "${KIPRJMOD}/Toslink-transceivers.kicad_sym")(options "")(descr ""))
+)
